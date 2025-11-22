@@ -166,7 +166,7 @@ Developed in 24 hours at **🔥 REDACT Cybersecurity Hackathon — 2025**
 > 🤝 A united team effort — Cyber defense requires collaboration 🛡️
 
 ---
-##📄 License
+📄 License
 
 This project is released under the MIT License.
 See LICENSE file for full details.
