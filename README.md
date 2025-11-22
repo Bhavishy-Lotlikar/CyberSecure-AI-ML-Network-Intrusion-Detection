@@ -86,17 +86,47 @@ Includes:
 - **Blockchain Ledger Viewer**
 - **Metrics Dashboard**
 - **Explainability Insights**
+---
+## ▶️ How to Run the Application (Launcher Script Version)
 
-### ▶️ Run Command
+Follow the steps below to launch the CyberSecure — IDS Dashboard:
+
+---
+
+### 1️⃣ Download & Extract
+- Download the project ZIP from the GitHub Releases section
+- Extract the ZIP into any folder on your system
+
+---
+
+### 2️⃣ Install Required Python Dependencies
+Open a terminal (CMD / PowerShell / Terminal) inside the extracted folder:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
 ```
+---
+### 3️⃣ Launch the Application
 
-Open UI in browser:
-👉 http://localhost:8501/
+Inside the main project directory, run:
+```bash
+python launcher.py
+```
+This will automatically launch the Streamlit dashboard in your browser at:
+```bash
+http://localhost:8501/
 
+```
+---
+### 4️⃣ Upload Network Flow Data
+
+Inside the dashboard UI:
+
+✔ Upload included demo datasets (inputs.csv)
+or
+✔ Upload your own CSV file with the same feature format and rename to inputs.csv
+
+---
 ##⛓️ Blockchain-Based Intrusion Ledger (Bonus)
 
 Each detected intrusion is:
