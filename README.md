@@ -92,9 +92,12 @@ Includes:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
 Open UI in browser:
 👉 http://localhost:8501/
-⛓️ Blockchain-Based Intrusion Ledger (Bonus)
+
+##⛓️ Blockchain-Based Intrusion Ledger (Bonus)
 
 Each detected intrusion is:
 
@@ -108,3 +111,46 @@ Tampering = Immediate integrity break
 → Supports cyber forensics
 
 ##📂 Repository Structure
+offline_ids/
+│
+├── app.py                      # Streamlit Dashboard
+├── blockchain.py               # Hash chain ledger system
+├── predict_offline.py          # Batch IDS script
+├── chain.json                  # Auto-generated event ledger
+│
+├── data/
+│   ├── xgboost_intrusion_model_high_recall.pkl
+│   ├── scaler.pkl
+│   ├── cicids2017_binary_processed.csv
+│   ├── xgb_high_recall_full_metrics.xlsx
+│   └── sample_flows.csv
+│
+├── assets/
+│   ├── architecture_diagram.png (optional)
+│   └── screenshots/ (optional)
+│
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+└── README.md
+
+###📜 Dataset Citation
+
+This model uses a cleaned & preprocessed version of CIC-IDS 2017:
+
+Preprocessed Kaggle Dataset
+🔗 https://www.kaggle.com/datasets/ericanacletoribeiro/cicids2017-cleaned-and-preprocessed
+
+Original Dataset Source
+Canadian Institute for Cybersecurity (CIC), University of New Brunswick
+🔗 https://www.unb.ca/cic/datasets/ids-2017.html
+
+Dataset rights belong to their respective owners.
+
+##🏆 Hackathon Info
+
+Developed in 24 hours at
+🔥 REDACT Cybersecurity Hackathon — 2025
+
+Team: Kill Switch
+Role: [Your Role — ML Engineer / Full Stack / Dashboard Lead]
