@@ -150,22 +150,20 @@ Canadian Institute for Cybersecurity (CIC), University of New Brunswick
 
 Dataset rights belong to their respective owners.
 ---
-##🏆 Hackathon Info
+## 🏆 Hackathon Info
 
-Developed in 24 hours at
-🔥 REDACT Cybersecurity Hackathon — 2025
+Developed in 24 hours at **🔥 REDACT Cybersecurity Hackathon — 2025**
 
-Team Members 👥
+### 👥 Team Members
 
-[Bhavishy Lotlikar] — Machine Learning & Dashboard
+| Name | Role |
+|------|------|
+| **Bhavishy Lotlikar** | Machine Learning & Dashboard |
+| **Rudra Tatuskar** | Machine Learning & Backend / Data Pipeline |
+| **Reyansh Sakriya** | Team Leader & XAI Lead |
+| **Indraneel Patil** | Blockchain & Security Logic |
 
-[Rudra Tatuskar] — Machine Learning & Backend / Data Pipeline
-
-[Reyansh Sakriya] — Team Leader / XAI
-
-[Indraneel Patil] — Blockchain & Security Logic
-
-A team-driven effort — Cyber defense requires collaboration 🛡️🤝
+> 🤝 A united team effort — Cyber defense requires collaboration 🛡️
 
 ---
 ##📄 License
