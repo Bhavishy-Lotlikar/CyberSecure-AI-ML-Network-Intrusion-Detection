@@ -110,7 +110,9 @@ Stored in chain.json
 Tampering = Immediate integrity break
 → Supports cyber forensics
 
-##📂 Repository Structure
+---
+## 📂 Repository Structure
+```
 offline_ids/
 │
 ├── app.py                      # Streamlit Dashboard
@@ -133,8 +135,9 @@ offline_ids/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
-###📜 Dataset Citation
+```
+---
+### 📜 Dataset Citation
 
 This model uses a cleaned & preprocessed version of CIC-IDS 2017:
 
@@ -146,8 +149,8 @@ Canadian Institute for Cybersecurity (CIC), University of New Brunswick
 🔗 https://www.unb.ca/cic/datasets/ids-2017.html
 
 Dataset rights belong to their respective owners.
-
-##🏆 Hackathon Info
+---
+## 🏆 Hackathon Info
 
 Developed in 24 hours at
 🔥 REDACT Cybersecurity Hackathon — 2025
