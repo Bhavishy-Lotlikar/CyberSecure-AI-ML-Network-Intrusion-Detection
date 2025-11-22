@@ -150,10 +150,33 @@ Canadian Institute for Cybersecurity (CIC), University of New Brunswick
 
 Dataset rights belong to their respective owners.
 ---
-## 🏆 Hackathon Info
+##🏆 Hackathon Info
 
 Developed in 24 hours at
 🔥 REDACT Cybersecurity Hackathon — 2025
 
-Team: Kill Switch
-Role: [Your Role — ML Engineer / Full Stack / Dashboard Lead]
+Team Members 👥
+
+[Bhavishy Lotlikar] — Machine Learning & Dashboard
+
+[Rudra Tatuskar] — Machine Learning & Backend / Data Pipeline
+
+[Reyansh Sakriya] — Team Leader / XAI
+
+[Indraneel Patil] — Blockchain & Security Logic
+
+A team-driven effort — Cyber defense requires collaboration 🛡️🤝
+
+---
+##📄 License
+
+This project is released under the MIT License.
+See LICENSE file for full details.
+
+---
+📬 Contact Info
+
+👤 Author: [Bhavishy Lotlikar]
+📧 Email: [your-email]
+🐙 GitHub: [your GitHub profile]
+🔗 LinkedIn: [your LinkedIn profile]
