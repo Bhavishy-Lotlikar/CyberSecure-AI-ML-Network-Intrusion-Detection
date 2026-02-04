@@ -205,6 +205,5 @@ See LICENSE file for full details.
 📬 Contact Info
 
 👤 Author: [Bhavishy Lotlikar]
-📧 Email: [your-email]
-🐙 GitHub: [your GitHub profile]
-🔗 LinkedIn: [your LinkedIn profile]
+🐙 GitHub: [Bhavishy-Lotlikar]
+
